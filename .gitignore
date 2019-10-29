@@ -1,0 +1,7 @@
+.idea
+.pytest_cache
+__pycache__
+SaS_Project\.idea
+SaS_Project\.pytest_cache
+SaS_Project\__pycache__
+Framework\__pycache__
