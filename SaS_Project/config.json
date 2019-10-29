@@ -1,0 +1,6 @@
+{
+  "browser": "firefox",
+  "wait_time": 10,
+  "url": "https://www.simmons-simmons.com/",
+  "failed_tests_screenshots_path": "D:\\testPhoto\\python"
+}
