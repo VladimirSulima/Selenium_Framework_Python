@@ -5,6 +5,8 @@ SaS_Project\.idea
 SaS_Project\.pytest_cache
 SaS_Project\__pycache__
 SaS_Project\Reports
+SaS_Project\geckodriver.log
+SaS_Project\tests\geckodriver.log
 SaS_Project\tests\__pycache__
 SaS_Project\tests\.pytest_cache
 Framework\__pycache__
